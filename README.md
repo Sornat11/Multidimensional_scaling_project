@@ -40,3 +40,4 @@ The dataset covers various factors representing different spheres of life, such 
 - USA
 
 All data is from the year 2022.
+Project was created in Polish language
